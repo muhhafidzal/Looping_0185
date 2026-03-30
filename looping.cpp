@@ -39,6 +39,6 @@ int main(){
     cout<<endl;
 }
 
-//Logika OR
+//Logika not
 #include <iostream>
 using namespace std;
